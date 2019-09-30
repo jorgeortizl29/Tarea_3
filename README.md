@@ -31,7 +31,7 @@ listaDeNumeros[5]<-12
 length(listaDeNumeros)
 ##la funcion length me entrega el largo o cantidad de datos de la lista.
 
-##Pregunta 5
+##Ejercicio 5
 valorInicial <-5
 valorFinal <-20
 valorInicial <-20
