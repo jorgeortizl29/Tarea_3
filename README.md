@@ -49,7 +49,7 @@ valorInicial <-5
 valorFinal <-5
 
 valorInicial : valorFinal
-## en el caso de que ambos valores sean iguales, la secuencia arroja solo un numero, es decir, el numnero fijado. para este caso el numero 5.
+#en el caso de que ambos valores sean iguales, la secuencia arroja solo un numero, es decir, el numnero fijado. para este caso el numero 5.
 
 ##EJERCICIO 6
 for (i in 1 : 100) {
@@ -72,7 +72,7 @@ for(i in (listaDeNumeros)){
 ###EJERCICIO 10
 ##El resultado generado de la suma anterior es igual a 7.
 ##El resultado de la resta es igual a -1.
-## El resultado de la multiplicacion es igual a 12.
+# El resultado de la multiplicacion es igual a 12.
 ##El resultado de la division es igual a 0,75.
 
 ###EJERCICIO 11
