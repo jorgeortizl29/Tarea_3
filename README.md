@@ -64,4 +64,27 @@ for(i in (listaDeNumeros)){
 ##Al adaptar el codigo "i" anteriormente ejecutado que iban desde el 1 al 100  por la listaDeNumeros, me arroja los valores de la lista con su respectivo print, es decir, desde el "cuento 2 misisipis" (valor ubicado en la primera posicion de la lista) hasta el "cuento 15 misisipis" (valor uicado en la ultima posicion de la lista).
 
 ##EJERCICIO 8
+##el insertar los condicionales visto en clases a la formula, ente caso la condicion par e impar a la listaDeNumeros, me permite conocer cuales de los valores de la lista son pares y cuales impares.
+
+###EJERCICIO 9
+##Para este caso el ganador es SI, ya que el total de votaciones para "Si" es mayor o igual al 30%.
+
+###EJERCICIO 10
+##El resultado generado de la suma anterior es igual a 7.
+##El resultado de la resta es igual a -1.
+## El resultado de la multiplicacion es igual a 12.
+##El resultado de la division es igual a 0,75.
+
+###EJERCICIO 11
+
+##Diferencia Rectangulo
+##La funcion arroja como resultado que la diferencia de las areas es 34 entre un rectangulo de base 10, altura 7 y uno de base 9 y altura 4.
+
+##Diferencia Circulo
+##La funcion arroja que si los valores de los radios 1 y 2 son 9 y 6 respectivamente. La diferencia del area de los cirvulos es de 141.3717.
+
+###EJERCICIO ADICIONAL
+##Las ventajas de las listas es que nos proporciona los datos de manera ordenada y facilita el manejo de ellos al momento de utilizarlos en diferentes formulas.Ademas entrega informacion relevante como por ejemplo si se quiesiera encontrar la posicion exacta de un valor en una larga lista de datos. Por otro lado el FOR-LOOP se destaca cuando se quiere dar una repeticion a cierta cantidad de datos siguiendo un parametro que haya sido asignado con anterioridad.
+
+
 
