@@ -72,7 +72,7 @@ for(i in (listaDeNumeros)){
 ###EJERCICIO 10
 ##El resultado generado de la suma anterior es igual a 7.
 ##El resultado de la resta es igual a -1.
-# El resultado de la multiplicacion es igual a 12.
+#El resultado de la multiplicacion es igual a 12.
 ##El resultado de la division es igual a 0,75.
 
 ###EJERCICIO 11
